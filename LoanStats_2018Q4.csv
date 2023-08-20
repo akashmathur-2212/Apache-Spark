@@ -1,0 +1,103 @@
+loan_amnt,funded_amnt,funded_amnt_inv,term,int_rate,installment,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,pymnt_plan
+10000,10000,10000, 36 months,10.33%,324.23,B,B1,,< 1 year,MORTGAGE,280000,Not Verified,18-Dec,Current,n
+2500,2500,2500, 36 months,13.56%,84.92,C,C1,Chef,10+ years,RENT,55000,Not Verified,18-Dec,Current,n
+12000,12000,12000, 60 months,13.56%,276.49,C,C1,,< 1 year,MORTGAGE,40000,Not Verified,18-Dec,Current,n
+15000,15000,14975, 60 months,14.47%,352.69,C,C2,,n/a,MORTGAGE,30000,Source Verified,18-Dec,Current,n
+16000,16000,16000, 60 months,17.97%,406.04,D,D1,Instructional Coordinator,5 years,MORTGAGE,51000,Not Verified,18-Dec,Current,n
+9600,9600,9600, 36 months,23.40%,373.62,E,E1,driver coordinator ,9 years,RENT,65000,Not Verified,18-Dec,Current,n
+4000,4000,4000, 36 months,23.40%,155.68,E,E1,Security,3 years,RENT,90000,Source Verified,18-Dec,Current,n
+3500,3500,3500, 36 months,20.89%,131.67,D,D4,gas attendant,10+ years,MORTGAGE,40000,Source Verified,18-Dec,Current,n
+9600,9600,9600, 36 months,12.98%,323.37,B,B5,,n/a,MORTGAGE,35704,Not Verified,18-Dec,Current,n
+8000,8000,8000, 36 months,23.40%,311.35,E,E1,Manager,10+ years,OWN,43000,Source Verified,18-Dec,Current,n
+16000,16000,16000, 60 months,26.31%,481.99,E,E4,Financial Relationship Associate,< 1 year,RENT,33000,Source Verified,18-Dec,Current,n
+30000,30000,30000, 60 months,18.94%,777.23,D,D2,Postmaster ,10+ years,MORTGAGE,90000,Source Verified,18-Dec,Current,n
+10000,10000,10000, 60 months,19.92%,264.5,D,D3,Material Handler,10+ years,MORTGAGE,80000,Not Verified,18-Dec,Current,n
+5000,5000,5000, 36 months,17.97%,180.69,D,D1,Administrative,6 years,MORTGAGE,59280,Source Verified,18-Dec,Current,n
+23000,23000,23000, 60 months,20.89%,620.81,D,D4,Operator,5 years,RENT,68107,Source Verified,18-Dec,Current,n
+32075,32075,32075, 60 months,11.80%,710.26,B,B4,Nursing Supervisor,10+ years,MORTGAGE,150000,Not Verified,18-Dec,Current,n
+13000,13000,13000, 36 months,23.40%,505.95,E,E1,Sale Representative,2 years,MORTGAGE,90000,Verified,18-Dec,Current,n
+35000,35000,35000, 60 months,15.02%,833.02,C,C3,Sr Sales Manager,10+ years,MORTGAGE,290000,Source Verified,18-Dec,Current,n
+40000,40000,40000, 60 months,11.31%,875.9,B,B3,,< 1 year,MORTGAGE,136000,Not Verified,18-Dec,Current,n
+8000,8000,8000, 36 months,10.33%,259.38,B,B1,Optician,6 years,MORTGAGE,38000,Source Verified,18-Dec,Current,n
+24000,24000,24000, 60 months,27.27%,736.73,E,E5,Firefighter/captain,10+ years,MORTGAGE,140000,Not Verified,18-Dec,Current,n
+25000,25000,25000, 60 months,16.14%,609.82,C,C4,Production Manager,5 years,MORTGAGE,45000,Not Verified,18-Dec,Current,n
+30000,30000,30000, 60 months,26.31%,903.73,E,E4,Casino Host,10+ years,OWN,62000,Source Verified,18-Dec,Current,n
+24000,24000,24000, 36 months,15.02%,832.21,C,C3,MAINTENANCE PLANNER ,3 years,OWN,105000,Not Verified,18-Dec,Current,n
+4000,4000,4000, 36 months,18.94%,146.51,D,D2,,n/a,RENT,19000,Not Verified,18-Dec,Current,n
+28000,28000,28000, 36 months,11.31%,920.81,B,B3,Executive Administrative Assistant,5 years,RENT,82000,Verified,18-Dec,Current,n
+24000,24000,24000, 60 months,11.31%,525.54,B,B3,Bill Collector,1 year,MORTGAGE,72000,Not Verified,18-Dec,Current,n
+12000,12000,12000, 60 months,14.47%,282.16,C,C2,Assistant Athletic Director of Marketing,1 year,RENT,67000,Not Verified,18-Dec,Current,n
+14000,14000,14000, 36 months,16.14%,493.17,C,C4,,n/a,MORTGAGE,77479,Not Verified,18-Dec,Current,n
+16000,16000,16000, 36 months,14.47%,550.51,C,C2,Carpenter,10+ years,RENT,150000,Source Verified,18-Dec,Current,n
+7075,7075,7075, 36 months,23.40%,275.35,E,E1,,n/a,RENT,19200,Not Verified,18-Dec,Current,n
+5000,5000,5000, 36 months,10.72%,163.04,B,B2,Teacher,5 years,OWN,72000,Not Verified,18-Dec,Current,n
+7500,7500,7475, 36 months,11.80%,248.4,B,B4,,n/a,MORTGAGE,32700,Not Verified,18-Dec,Current,n
+6000,6000,6000, 36 months,15.02%,208.06,C,C3,Shift Supervisor,5 years,MORTGAGE,30000,Source Verified,18-Dec,Current,n
+10000,10000,10000, 60 months,14.47%,235.13,C,C2,Teacher,5 years,RENT,66931,Not Verified,18-Dec,Current,n
+5000,5000,5000, 36 months,11.31%,164.43,B,B3,,n/a,RENT,13000,Not Verified,18-Dec,Current,n
+1250,1250,1250, 36 months,23.40%,48.65,E,E1,BANKER,10+ years,RENT,52000,Source Verified,18-Dec,Current,n
+3000,3000,3000, 36 months,10.33%,97.27,B,B1,Driver,7 years,RENT,40000,Source Verified,18-Dec,Current,n
+15000,15000,15000, 60 months,14.47%,352.69,C,C2,"VP, Solutions Management",9 years,RENT,280000,Verified,18-Dec,Current,n
+4000,4000,4000, 36 months,11.80%,132.48,B,B4,,n/a,RENT,20000,Not Verified,18-Dec,Current,n
+10400,10400,10400, 36 months,12.98%,350.32,B,B5,Program Support Assistant ,10+ years,MORTGAGE,56099,Source Verified,18-Dec,Current,n
+35000,35000,35000, 60 months,19.92%,925.73,D,D3,OPERATOR,10+ years,MORTGAGE,68000,Verified,18-Dec,Current,n
+16500,16500,16500, 60 months,17.97%,418.73,D,D1,case manager ,5 years,MORTGAGE,37000,Verified,18-Dec,Current,n
+1000,1000,975, 36 months,6.46%,30.64,A,A1,Service Consultant ,3 years,MORTGAGE,49989,Not Verified,18-Dec,Current,n
+7000,7000,6975, 36 months,10.72%,228.25,B,B2,Business Analyst,< 1 year,MORTGAGE,97000,Source Verified,18-Dec,Current,n
+25000,25000,25000, 36 months,12.98%,842.11,B,B5,,n/a,OWN,30000,Not Verified,18-Dec,Current,n
+8000,8000,8000, 36 months,11.80%,264.96,B,B4,Program Manager,7 years,MORTGAGE,85000,Not Verified,18-Dec,Current,n
+30000,30000,30000, 60 months,20.89%,809.75,D,D4,PRIVATE CLIENT BANKER,2 years,RENT,120000,Source Verified,18-Dec,Current,n
+35000,35000,35000, 60 months,18.94%,906.77,D,D2,Financial Advisor,10+ years,RENT,90000,Source Verified,18-Dec,Current,n
+8500,8500,8500, 36 months,16.14%,299.43,C,C4,Asst. Manager,8 years,MORTGAGE,80000,Not Verified,18-Dec,Current,n
+11000,11000,11000, 36 months,14.47%,378.47,C,C2,Teacher,10+ years,MORTGAGE,89000,Not Verified,18-Dec,Current,n
+18000,18000,18000, 60 months,10.72%,388.86,B,B2,Office Manager,10+ years,MORTGAGE,32000,Verified,18-Dec,Current,n
+40000,40000,40000, 60 months,16.14%,975.71,C,C4,Assistant to the Treasurer (Payroll),< 1 year,MORTGAGE,45000,Verified,18-Dec,Fully Paid,n
+5500,5500,5500, 36 months,11.31%,180.88,B,B3,Engineer,5 years,MORTGAGE,98000,Not Verified,18-Dec,Current,n
+10500,10500,10500, 60 months,11.80%,232.51,B,B4,,n/a,OWN,36000,Verified,18-Dec,Current,n
+3000,3000,3000, 36 months,17.97%,108.42,D,D1,Cna,7 years,MORTGAGE,33000,Source Verified,18-Dec,Current,n
+35000,35000,35000, 60 months,20.89%,944.71,D,D4,Instructor for Training Squadron,10+ years,RENT,80000,Verified,18-Dec,Current,n
+25000,25000,25000, 60 months,14.47%,587.82,C,C2,City Crrier,3 years,MORTGAGE,65000,Verified,18-Dec,Current,n
+8800,8800,8800, 36 months,16.91%,313.35,C,C5,,< 1 year,MORTGAGE,21000,Not Verified,18-Dec,Current,n
+20000,20000,20000, 36 months,10.33%,648.45,B,B1,UPS/Shipping,10+ years,MORTGAGE,60000,Not Verified,18-Dec,Current,n
+12000,12000,12000, 60 months,14.47%,282.16,C,C2,Reimbursement specialist ,6 years,MORTGAGE,39000,Source Verified,18-Dec,Current,n
+12000,12000,12000, 36 months,16.14%,422.72,C,C4,Sales Account Manager,4 years,RENT,70000,Source Verified,18-Dec,Current,n
+8250,8250,8250, 36 months,17.97%,298.14,D,D1,Driver ,10+ years,MORTGAGE,68000,Not Verified,18-Dec,Current,n
+18000,18000,18000, 36 months,8.81%,570.81,A,A5,Attorney-Adviser,3 years,RENT,100203,Not Verified,18-Dec,Current,n
+15000,15000,15000, 60 months,13.56%,345.62,C,C1,,< 1 year,RENT,72000,Not Verified,18-Dec,Current,n
+10000,10000,10000, 36 months,19.92%,371.23,D,D3,,n/a,OWN,17440,Verified,18-Dec,Current,n
+5400,5400,5400, 36 months,14.47%,185.8,C,C2,Shift Supervisor,2 years,MORTGAGE,25000,Source Verified,18-Dec,Current,n
+6000,6000,6000, 36 months,6.46%,183.79,A,A1,Senior manager,3 years,RENT,27000,Not Verified,18-Dec,Current,n
+25000,25000,25000, 36 months,16.91%,890.2,C,C5,Captain,3 years,RENT,67000,Source Verified,18-Dec,Current,n
+7000,7000,7000, 36 months,10.33%,226.96,B,B1,Reference/YA Librarian,3 years,RENT,45581,Not Verified,18-Dec,Current,n
+10000,10000,10000, 36 months,14.47%,344.07,C,C2,Workforce Analyst,7 years,RENT,90000,Source Verified,18-Dec,Current,n
+35000,35000,35000, 60 months,12.98%,796,B,B5,Sr. Vice President -Risk Manager,7 years,MORTGAGE,211646,Source Verified,18-Dec,Current,n
+34575,34575,34575, 60 months,17.97%,877.42,D,D1,Compliance manager,5 years,MORTGAGE,130000,Source Verified,18-Dec,Current,n
+1200,1200,1200, 36 months,17.97%,43.37,D,D1,Haz Mat S/R,10+ years,OWN,52000,Not Verified,18-Dec,Current,n
+1000,1000,1000, 36 months,23.40%,38.92,E,E1,,n/a,RENT,29000,Not Verified,18-Dec,Current,n
+10000,10000,10000, 36 months,16.14%,352.27,C,C4,Operations Coordinator ,1 year,MORTGAGE,63000,Not Verified,18-Dec,Current,n
+5000,5000,5000, 36 months,16.14%,176.14,C,C4,Software Consultant,6 years,RENT,110000,Not Verified,18-Dec,Current,n
+8425,8425,8425, 36 months,27.27%,345.18,E,E5,Senior Director Risk Management,3 years,MORTGAGE,450000,Verified,18-Dec,Fully Paid,n
+13000,13000,13000, 36 months,17.97%,469.79,D,D1,Help Tech Supervisor,10+ years,MORTGAGE,92360,Source Verified,18-Dec,Current,n
+15000,15000,15000, 36 months,15.02%,520.13,C,C3,Financial Planner,10+ years,MORTGAGE,175000,Source Verified,18-Dec,Current,n
+30000,30000,30000, 60 months,12.98%,682.29,B,B5,Senior Software Engineer,2 years,MORTGAGE,113000,Not Verified,18-Dec,Current,n
+10000,10000,10000, 36 months,14.47%,344.07,C,C2,Software Engineer,8 years,MORTGAGE,143000,Not Verified,18-Dec,Current,n
+18000,18000,18000, 60 months,14.47%,423.23,C,C2,Machinst/Programer,7 years,MORTGAGE,60000,Verified,18-Dec,Current,n
+15000,15000,15000, 60 months,13.56%,345.62,C,C1,"Manager, Patient Finance",4 years,MORTGAGE,75000,Source Verified,18-Dec,Current,n
+21000,21000,21000, 36 months,16.91%,747.77,C,C5,,< 1 year,OWN,68000,Not Verified,18-Dec,Current,n
+32000,32000,32000, 60 months,12.98%,727.78,B,B5,Manager,4 years,MORTGAGE,70000,Verified,18-Dec,Current,n
+20000,20000,20000, 36 months,14.47%,688.13,C,C2,bus driver,4 years,OWN,52000,Source Verified,18-Dec,Current,n
+15000,15000,15000, 36 months,15.02%,520.13,C,C3,,n/a,MORTGAGE,42000,Verified,18-Dec,Current,n
+4000,4000,4000, 36 months,16.91%,142.44,C,C5,Vacation Advisor,5 years,RENT,54000,Source Verified,18-Dec,Current,n
+20000,20000,20000, 60 months,12.98%,454.86,B,B5,Esthetician ,< 1 year,RENT,40000,Source Verified,18-Dec,Current,n
+20400,20400,20400, 60 months,10.33%,436.76,B,B1,Bakery Manager,10+ years,MORTGAGE,140000,Not Verified,18-Dec,Current,n
+24000,24000,24000, 60 months,13.56%,552.98,C,C1,Manager,10+ years,MORTGAGE,75000,Not Verified,18-Dec,Current,n
+15000,15000,15000, 60 months,14.47%,352.69,C,C2,Operation s director,10+ years,MORTGAGE,120000,Source Verified,18-Dec,Current,n
+10000,10000,10000, 36 months,11.80%,331.19,B,B4,Service tech.,9 years,RENT,100000,Not Verified,18-Dec,Current,n
+10000,10000,10000, 60 months,23.40%,284.21,E,E1,,< 1 year,RENT,55000,Source Verified,18-Dec,Current,n
+15400,15400,15400, 60 months,14.47%,362.1,C,C2,DISTRICT SALES MANAGER,3 years,MORTGAGE,110000,Not Verified,18-Dec,Current,n
+10475,10475,10475, 36 months,11.31%,344.48,B,B3,Teacher,6 years,RENT,66150,Source Verified,18-Dec,Current,n
+3600,3600,3600, 36 months,11.80%,119.23,B,B4,Analyst,5 years,MORTGAGE,50000,Source Verified,18-Dec,Current,n
+20000,20000,20000, 36 months,7.56%,622.68,A,A3,Teacher,10+ years,MORTGAGE,100000,Not Verified,18-Dec,Fully Paid,n
+7500,7500,7500, 36 months,11.31%,246.65,B,B3,Supervisor,7 years,MORTGAGE,40500,Verified,18-Dec,Current,n
+4800,4800,4800, 36 months,16.91%,170.92,C,C5,Server,9 years,RENT,38500,Source Verified,18-Dec,Current,n
+22000,22000,22000, 60 months,11.80%,487.16,B,B4,Corporate Communications Strategist,10+ years,MORTGAGE,155000,Source Verified,18-Dec,Current,n
